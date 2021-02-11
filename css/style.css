@@ -14,3 +14,16 @@ h1 {
     text-align: center;
     margin: 70px 0 0;
 }
+article {
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top:  15px;
+    height: 100vh;
+}
+
+section {
+    margin: 50px ;
+}
+section p:first-of-type {
+    font-style: italic;
+}
