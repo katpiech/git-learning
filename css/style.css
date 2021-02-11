@@ -8,3 +8,9 @@ body {
     line-height: 1.5; 
     font-family: 'Raleway', sans-serif;
 }
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    margin: 70px 0 0;
+}
