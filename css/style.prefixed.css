@@ -1,0 +1,31 @@
+/* Global */
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.5; 
+    font-family: 'Raleway', sans-serif;
+    background-color: #009432;
+    color: #fff;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    margin: 70px 0 0;
+}
+article {
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top:  15px;
+    height: 100vh;
+}
+
+section {
+    margin: 50px ;
+}
+section p:first-of-type {
+    font-style: italic;
+}

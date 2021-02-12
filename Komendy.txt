@@ -1,0 +1,3 @@
+node_modules/.bin/html-validate index.html
+
+autoprefixer-cli -o style.prefixed.css style.css
